@@ -319,14 +319,12 @@ footer {
 }
 
 .cartao {
-    width: 50%;
+    width: 45%;
     margin-bottom: 1em;
     text-align: center;
 }
 
-.cartoes {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+.cartao:hover {
+    width: 50%;
 }
 }
